@@ -1,0 +1,14 @@
+[
+  {
+    "typ": "Služba",
+    "kod": 4019,
+    "Názov": "Zapojenie stykačov na nové frekvenčné riadenie výťahu",
+    "Predajná_bez_DPH": 27.0
+  },
+  {
+    "typ": "Služba",
+    "kod": 4020,
+    "Názov": "Výmena tlmiacich gúm na kovovom ráme stroja",
+    "Predajná_bez_DPH": 20.0
+  }
+]
