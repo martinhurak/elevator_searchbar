@@ -7,6 +7,8 @@ import Stack from 'react-bootstrap/Stack';
 import VytahyHladanie from './VytahyHladanie';
 import VytahyVysledky from './VytahyVysledky';
 
+
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
 <>
@@ -19,6 +21,7 @@ root.render(
       <VytahyVysledky/>
     </Stack>
   </Container>
+ 
 </>
 );
 
