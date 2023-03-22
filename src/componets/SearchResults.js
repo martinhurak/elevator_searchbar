@@ -10,6 +10,7 @@ import Table from 'react-bootstrap/Table';
       <td>{a.kod}</td>
       <td>{a.Názov}</td>
       <td className="text-center">{a.Predajná_bez_DPH}</td>
+      <td>{a.kategoria}</td>
     </tr>
   ));
 
@@ -21,6 +22,7 @@ import Table from 'react-bootstrap/Table';
           <th>kod</th>
           <th>Názov</th>
           <th >Predajná bez DPH</th>
+          <th>Kategória</th>
         </tr>
       </thead>
       <tbody>{data}</tbody>
