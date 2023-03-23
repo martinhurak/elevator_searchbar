@@ -1,1990 +1,1990 @@
 [
   {
-    "typ": "Služba",
-    "kod": 2000,
-    "Názov": " Príprava na prácu - skúška výťahu po oprave",
-    "Predajná_bez_DPH": 4.0,
-    "kategoria": "1"
+    "type": "Služba",
+    "id": 2000,
+    "name": " Príprava na prácu - skúška výťahu po oprave",
+    "price": 4.0,
+    "category": "1"
   },
   {
-    "typ": "Služba",
-    "kod": 2001,
-    "Názov": " Diagnostika riadiaceho systému výťahu s nastavením parametrov",
-    "Predajná_bez_DPH": 30.0,
-    "kategoria": "1"
+    "type": "Služba",
+    "id": 2001,
+    "name": " Diagnostika riadiaceho systému výťahu s nastavením parametrov",
+    "price": 30.0,
+    "category": "1"
   },
   {
-    "typ": "Služba",
-    "kod": 2002,
-    "Názov": " Montáž ističa s ochranou všetky typy vrátane lišty DIN",
-    "Predajná_bez_DPH": 50.0,
-    "kategoria": "1"
+    "type": "Služba",
+    "id": 2002,
+    "name": " Montáž ističa s ochranou všetky typey vrátane lišty DIN",
+    "price": 50.0,
+    "category": "1"
   },
   {
-    "typ": "Služba",
-    "kod": 2003,
-    "Názov": "Výmena hlavice alebo lôžka poistky",
-    "Predajná_bez_DPH": 6.5,
-    "kategoria": "1"
+    "type": "Služba",
+    "id": 2003,
+    "name": "Výmena hlavice alebo lôžka poistky",
+    "price": 6.5,
+    "category": "1"
   },
   {
-    "typ": "Služba",
-    "kod": 2004,
-    "Názov": "Výmena ističa za ten istý typ",
-    "Predajná_bez_DPH": 30.0,
-    "kategoria": "2"
+    "type": "Služba",
+    "id": 2004,
+    "name": "Výmena ističa za ten istý type",
+    "price": 30.0,
+    "category": "2"
   },
   {
-    "typ": "Služba",
-    "kod": 2005,
-    "Názov": "Zriadenie a vyčistenie koncového vypínača",
-    "Predajná_bez_DPH": 28.0,
-    "kategoria": "2"
+    "type": "Služba",
+    "id": 2005,
+    "name": "Zriadenie a vyčistenie koncového vypínača",
+    "price": 28.0,
+    "category": "2"
   },
   {
-    "typ": "Služba",
-    "kod": 2006,
-    "Názov": "Výmena riadiacej jednotky VTA Beta s nastavením vstupných parametrov",
-    "Predajná_bez_DPH": 54.0,
-    "kategoria": "2"
+    "type": "Služba",
+    "id": 2006,
+    "name": "Výmena riadiacej jednotky VTA Beta s nastavením vstupných parametrov",
+    "price": 54.0,
+    "category": "2"
   },
   {
-    "typ": "Služba",
-    "kod": 2007,
-    "Názov": "Výmena frekvenèného meniča v rozvádzači VVF",
-    "Predajná_bez_DPH": 183.0,
-    "kategoria": "2"
+    "type": "Služba",
+    "id": 2007,
+    "name": "Výmena frekvenèného meniča v rozvádzači VVF",
+    "price": 183.0,
+    "category": "2"
   },
   {
-    "typ": "Služba",
-    "kod": 2008,
-    "Názov": "Výmena vstupných expanderov LED, ZAR",
-    "Predajná_bez_DPH": 22.5,
-    "kategoria": "3"
+    "type": "Služba",
+    "id": 2008,
+    "name": "Výmena vstupných expanderov LED, ZAR",
+    "price": 22.5,
+    "category": "3"
   },
   {
-    "typ": "Služba",
-    "kod": 2009,
-    "Názov": "Výmena koncového vypínača",
-    "Predajná_bez_DPH": 67.0,
-    "kategoria": "3"
+    "type": "Služba",
+    "id": 2009,
+    "name": "Výmena koncového vypínača",
+    "price": 67.0,
+    "category": "3"
   },
   {
-    "typ": "Služba",
-    "kod": 2010,
-    "Názov": "Oprava elektrického KV",
-    "Predajná_bez_DPH": 10.0,
-    "kategoria": "3"
+    "type": "Služba",
+    "id": 2010,
+    "name": "Oprava elektrického KV",
+    "price": 10.0,
+    "category": "3"
   },
   {
-    "typ": "Služba",
-    "kod": 2011,
-    "Názov": "Výmena KV za iný typ",
-    "Predajná_bez_DPH": 30.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2011,
+    "name": "Výmena KV za iný type",
+    "price": 30.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2012,
-    "Názov": "Oprava a zriadenie stykača",
-    "Predajná_bez_DPH": 15.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2012,
+    "name": "Oprava a zriadenie stykača",
+    "price": 15.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2013,
-    "Názov": "Výmena stykača za ten istý typ",
-    "Predajná_bez_DPH": 15.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2013,
+    "name": "Výmena stykača za ten istý type",
+    "price": 15.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2014,
-    "Názov": "Výmena stykača za iný typ, vrátane pomocných kontaktov",
-    "Predajná_bez_DPH": 50.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2014,
+    "name": "Výmena stykača za iný type, vrátane pomocných kontaktov",
+    "price": 50.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2015,
-    "Názov": "Výmena relé nastrkovacie",
-    "Predajná_bez_DPH": 14.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2015,
+    "name": "Výmena relé nastrkovacie",
+    "price": 14.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2016,
-    "Názov": "Výmena relé, letovacie",
-    "Predajná_bez_DPH": 23.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2016,
+    "name": "Výmena relé, letovacie",
+    "price": 23.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2017,
-    "Názov": "Výmena poschodovej alebo riadiacej vložky rozvádzača",
-    "Predajná_bez_DPH": 42.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2017,
+    "name": "Výmena poschodovej alebo riadiacej vložky rozvádzača",
+    "price": 42.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2018,
-    "Názov": "Oprava, vyčistenie transformátora, dotiahnutie svoriek",
-    "Predajná_bez_DPH": 6.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2018,
+    "name": "Oprava, vyčistenie transformátora, dotiahnutie svoriek",
+    "price": 6.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2019,
-    "Názov": "Výmena transformátora",
-    "Predajná_bez_DPH": 62.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2019,
+    "name": "Výmena transformátora",
+    "price": 62.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2020,
-    "Názov": "Výmena diódy, odporu, kondenzátora",
-    "Predajná_bez_DPH": 24.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2020,
+    "name": "Výmena diódy, odporu, kondenzátora",
+    "price": 24.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2021,
-    "Názov": "Výmena selénu diódového mostíka",
-    "Predajná_bez_DPH": 15.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2021,
+    "name": "Výmena selénu diódového mostíka",
+    "price": 15.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2022,
-    "Názov": "Výmena usmerňovača /selén, diódový mostík/",
-    "Predajná_bez_DPH": 15.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2022,
+    "name": "Výmena usmerňovača /selén, diódový mostík/",
+    "price": 15.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2023,
-    "Názov": "Oprava svorkovnice v rozvádzači",
-    "Predajná_bez_DPH": 15.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2023,
+    "name": "Oprava svorkovnice v rozvádzači",
+    "price": 15.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2024,
-    "Názov": "Oprava elektornických komponentov v rozvádzači vrátane dodávky materiálu",
-    "Predajná_bez_DPH": 45.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2024,
+    "name": "Oprava elektornických komponentov v rozvádzači vrátane dodávky materiálu",
+    "price": 45.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2025,
-    "Názov": "Výmena rozvádzača za ten istý typ",
-    "Predajná_bez_DPH": 150.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2025,
+    "name": "Výmena rozvádzača za ten istý type",
+    "price": 150.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2026,
-    "Názov": "Zriadenie kopírovacieho prístroja",
-    "Predajná_bez_DPH": 20.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2026,
+    "name": "Zriadenie kopírovacieho prístroja",
+    "price": 20.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2027,
-    "Názov": "Úprava elektroinštalácie v strojovni, doplnenie vodičov",
-    "Predajná_bez_DPH": 25.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2027,
+    "name": "Úprava elektroinštalácie v strojovni, doplnenie vodičov",
+    "price": 25.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2028,
-    "Názov": "Zriadenie brzdového magnetu LM",
-    "Predajná_bez_DPH": 42.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2028,
+    "name": "Zriadenie brzdového magnetu LM",
+    "price": 42.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2029,
-    "Názov": "Výmena brzdového magnetu",
-    "Predajná_bez_DPH": 15.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2029,
+    "name": "Výmena brzdového magnetu",
+    "price": 15.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2030,
-    "Názov": "Výmena cievky magnetu brzdy",
-    "Predajná_bez_DPH": 50.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2030,
+    "name": "Výmena cievky magnetu brzdy",
+    "price": 50.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2031,
-    "Názov": "Výmena pružiny brzdy",
-    "Predajná_bez_DPH": 32.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2031,
+    "name": "Výmena pružiny brzdy",
+    "price": 32.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2032,
-    "Názov": "Výmena spínača brzdy",
-    "Predajná_bez_DPH": 8.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2032,
+    "name": "Výmena spínača brzdy",
+    "price": 8.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2033,
-    "Názov": "Výmena hlavného vypínača výťahu",
-    "Predajná_bez_DPH": 50.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2033,
+    "name": "Výmena hlavného vypínača výťahu",
+    "price": 50.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2034,
-    "Názov": "Oprava osvetlenia v strojovni - svietidlo",
-    "Predajná_bez_DPH": 8.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2034,
+    "name": "Oprava osvetlenia v strojovni - svietidlo",
+    "price": 8.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2035,
-    "Názov": "Výmena el. motora do 3,5 kW, vyrovnanie rotora, zriadenie pripojenia",
-    "Predajná_bez_DPH": 180.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2035,
+    "name": "Výmena el. motora do 3,5 kW, vyrovnanie rotora, zriadenie pripojenia",
+    "price": 180.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2036,
-    "Názov": "Výmena el. motora do 10 kW, vyrovnanie rotora, zriadenie pripojenia",
-    "Predajná_bez_DPH": 220.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2036,
+    "name": "Výmena el. motora do 10 kW, vyrovnanie rotora, zriadenie pripojenia",
+    "price": 220.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2037,
-    "Názov": "Vycentrovanie motora do osi s podložkami pod motor",
-    "Predajná_bez_DPH": 78.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2037,
+    "name": "Vycentrovanie motora do osi s podložkami pod motor",
+    "price": 78.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2038,
-    "Názov": "Demontáž a montáž prevodovky stroja s pretesnením skrine",
-    "Predajná_bez_DPH": 350.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2038,
+    "name": "Demontáž a montáž prevodovky stroja s pretesnením skrine",
+    "price": 350.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2039,
-    "Názov": "Doprava motora, stroja alebo lanovnice kladkostrojom",
-    "Predajná_bez_DPH": 70.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2039,
+    "name": "Doprava motora, stroja alebo lanovnice kladkostrojom",
+    "price": 70.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2040,
-    "Názov": "Výmena axiálneho ložiska - stroj S3",
-    "Predajná_bez_DPH": 50.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2040,
+    "name": "Výmena axiálneho ložiska - stroj S3",
+    "price": 50.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2041,
-    "Názov": "Výmena axiálneho ložiska - stroj S4",
-    "Predajná_bez_DPH": 58.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2041,
+    "name": "Výmena axiálneho ložiska - stroj S4",
+    "price": 58.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2042,
-    "Názov": "Prečistenie axiálneho ložiska stroja a zriadenie",
-    "Predajná_bez_DPH": 38.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2042,
+    "name": "Prečistenie axiálneho ložiska stroja a zriadenie",
+    "price": 38.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2043,
-    "Názov": "Vyvesenie, uvoľnenie nosných lán, zabezpečenie kabíny a protiváhy",
-    "Predajná_bez_DPH": 98.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2043,
+    "name": "Vyvesenie, uvoľnenie nosných lán, zabezpečenie kabíny a protiváhy",
+    "price": 98.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2044,
-    "Názov": "Výmena gumových valčekov v spojke",
-    "Predajná_bez_DPH": 42.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2044,
+    "name": "Výmena gumových valčekov v spojke",
+    "price": 42.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2045,
-    "Názov": "Vyčistenie a zriadenie brzdových čeľustí",
-    "Predajná_bez_DPH": 15.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2045,
+    "name": "Vyčistenie a zriadenie brzdových čeľustí",
+    "price": 15.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2046,
-    "Názov": "Výmena brzdového obloženia a zriadenie brzdy",
-    "Predajná_bez_DPH": 83.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2046,
+    "name": "Výmena brzdového obloženia a zriadenie brzdy",
+    "price": 83.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2047,
-    "Názov": "Výmena brzdy za dvojčinnú brzdu a zriadenie",
-    "Predajná_bez_DPH": 60.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2047,
+    "name": "Výmena brzdy za dvojčinnú brzdu a zriadenie",
+    "price": 60.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2048,
-    "Názov": "Demontáž a montáž trakčného kola s ozubeným vencom",
-    "Predajná_bez_DPH": 120.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2048,
+    "name": "Demontáž a montáž trakčného kola s ozubeným vencom",
+    "price": 120.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2049,
-    "Názov": "Výmena odkláňacej kladky",
-    "Predajná_bez_DPH": 70.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2049,
+    "name": "Výmena odkláňacej kladky",
+    "price": 70.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2050,
-    "Názov": "Výmena reťazovej kladky",
-    "Predajná_bez_DPH": 60.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2050,
+    "name": "Výmena reťazovej kladky",
+    "price": 60.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2051,
-    "Názov": "Vyčistenie lanka OR od vazelíny po celej dĺžke vrátane kladiek OR",
-    "Predajná_bez_DPH": 20.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2051,
+    "name": "Vyčistenie lanka OR od vazelíny po celej dĺžke vrátane kladiek OR",
+    "price": 20.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2052,
-    "Názov": "Výmena delených klzných ložísk podperného ložiska",
-    "Predajná_bez_DPH": 35.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2052,
+    "name": "Výmena delených klzných ložísk podperného ložiska",
+    "price": 35.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2053,
-    "Názov": "Výmena podperného ložiska za ten istý typ",
-    "Predajná_bez_DPH": 48.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2053,
+    "name": "Výmena podperného ložiska za ten istý type",
+    "price": 48.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2054,
-    "Názov": "Výmena oleja v prevodovke stroja alebo hydraulickej skrini",
-    "Predajná_bez_DPH": 4.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2054,
+    "name": "Výmena oleja v prevodovke stroja alebo hydraulickej skrini",
+    "price": 4.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2055,
-    "Názov": "Doplnenie oleja do prevodovky stroja alebo samomazníc",
-    "Predajná_bez_DPH": 12.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2055,
+    "name": "Doplnenie oleja do prevodovky stroja alebo samomazníc",
+    "price": 12.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2056,
-    "Názov": "Výmena maznice resp. doplnenie vrátane mazacej náplne",
-    "Predajná_bez_DPH": 18.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2056,
+    "name": "Výmena maznice resp. doplnenie vrátane mazacej náplne",
+    "price": 18.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2057,
-    "Názov": "Výmena závažia OR s prepúzdrovaním ložísk",
-    "Predajná_bez_DPH": 60.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2057,
+    "name": "Výmena závažia OR s prepúzdrovaním ložísk",
+    "price": 60.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2058,
-    "Názov": "Výmena obmedzovača rýchlosti v strojovni všetky typy",
-    "Predajná_bez_DPH": 85.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2058,
+    "name": "Výmena obmedzovača rýchlosti v strojovni všetky typey",
+    "price": 85.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2059,
-    "Názov": "Oprava spínača kabínových dvier a blokovanie dvier",
-    "Predajná_bez_DPH": 37.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2059,
+    "name": "Oprava spínača kabínových dvier a blokovanie dvier",
+    "price": 37.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2060,
-    "Názov": "Výmena spínača zachytávačov alebo lanového spínača na kabíne",
-    "Predajná_bez_DPH": 12.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2060,
+    "name": "Výmena spínača zachytávačov alebo lanového spínača na kabíne",
+    "price": 12.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2061,
-    "Názov": "Výmena plošného pásu podsvietenia kabínového tabla",
-    "Predajná_bez_DPH": 42.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2061,
+    "name": "Výmena plošného pásu podsvietenia kabínového tabla",
+    "price": 42.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2062,
-    "Názov": "Výmena spínača kabínových dverí",
-    "Predajná_bez_DPH": 11.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2062,
+    "name": "Výmena spínača kabínových dverí",
+    "price": 11.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2063,
-    "Názov": "Výmena tlačítkového elementu",
-    "Predajná_bez_DPH": 8.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2063,
+    "name": "Výmena tlačítkového elementu",
+    "price": 8.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2064,
-    "Názov": "Výmena mikrospínača v tlačítku antivandal",
-    "Predajná_bez_DPH": 27.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2064,
+    "name": "Výmena mikrospínača v tlačítku antivandal",
+    "price": 27.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2065,
-    "Názov": "Výmena kabínového tabla",
-    "Predajná_bez_DPH": 43.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2065,
+    "name": "Výmena kabínového tabla",
+    "price": 43.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2066,
-    "Názov": "Výmena tlačítkovej kombinácie v kabíne za ten istý typ",
-    "Predajná_bez_DPH": 15.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2066,
+    "name": "Výmena tlačítkovej kombinácie v kabíne za ten istý type",
+    "price": 15.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2067,
-    "Názov": "Oprava vonkajšej tlačítkovej kombinácie TPA 11, TPA 12",
-    "Predajná_bez_DPH": 8.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2067,
+    "name": "Oprava vonkajšej tlačítkovej kombinácie TPA 11, TPA 12",
+    "price": 8.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2068,
-    "Názov": "Výmena vonkajšej tlačítkovej kombinácie za ten istý typ",
-    "Predajná_bez_DPH": 10.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2068,
+    "name": "Výmena vonkajšej tlačítkovej kombinácie za ten istý type",
+    "price": 10.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2069,
-    "Názov": "Výmena signálnej LED diódy",
-    "Predajná_bez_DPH": 4.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2069,
+    "name": "Výmena signálnej LED diódy",
+    "price": 4.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2070,
-    "Názov": "Výmena pohonu motora ECC BUS Fermator",
-    "Predajná_bez_DPH": 115.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2070,
+    "name": "Výmena pohonu motora ECC BUS Fermator",
+    "price": 115.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2071,
-    "Názov": "Výmena riadiacej karty ovládania automatických dvier BUS Fermator",
-    "Predajná_bez_DPH": 58.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2071,
+    "name": "Výmena riadiacej karty ovládania automatických dvier BUS Fermator",
+    "price": 58.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2072,
-    "Názov": "Výmena tlačnej spojky pohonu dvier BUS Fermator",
-    "Predajná_bez_DPH": 120.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2072,
+    "name": "Výmena tlačnej spojky pohonu dvier BUS Fermator",
+    "price": 120.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2073,
-    "Názov": "Oprava krivky OM 1",
-    "Predajná_bez_DPH": 15.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2073,
+    "name": "Oprava krivky OM 1",
+    "price": 15.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2074,
-    "Názov": "Výmena odkláňacej krivky s nastavením DU",
-    "Predajná_bez_DPH": 44.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2074,
+    "name": "Výmena odkláňacej krivky s nastavením DU",
+    "price": 44.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2075,
-    "Názov": "Výmena magnetu odkláňacej krivky",
-    "Predajná_bez_DPH": 36.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2075,
+    "name": "Výmena magnetu odkláňacej krivky",
+    "price": 36.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2076,
-    "Názov": "Nastavenie odkláňacej krivky s premazaním",
-    "Predajná_bez_DPH": 23.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2076,
+    "name": "Nastavenie odkláňacej krivky s premazaním",
+    "price": 23.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2077,
-    "Názov": "Výmena cievky magnetu krivky OM 1, OM 48/10",
-    "Predajná_bez_DPH": 20.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2077,
+    "name": "Výmena cievky magnetu krivky OM 1, OM 48/10",
+    "price": 20.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2078,
-    "Názov": "Oprava lišty s krivkou",
-    "Predajná_bez_DPH": 10.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2078,
+    "name": "Oprava lišty s krivkou",
+    "price": 10.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2079,
-    "Názov": "Oprava snímača VMS, zriadenie",
-    "Predajná_bez_DPH": 10.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2079,
+    "name": "Oprava snímača VMS, zriadenie",
+    "price": 10.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2080,
-    "Názov": "Výmena snímača VMS, trubkový BI, MS",
-    "Predajná_bez_DPH": 34.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2080,
+    "name": "Výmena snímača VMS, trubkový BI, MS",
+    "price": 34.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2081,
-    "Názov": "Výmena plexiskla krytu stropného podhľadu kabíny",
-    "Predajná_bez_DPH": 11.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2081,
+    "name": "Výmena plexiskla krytu stropného podhľadu kabíny",
+    "price": 11.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2082,
-    "Názov": "Výmena žiarovky v kabíne, šachte, strojovni alebo signálnej žiarovky",
-    "Predajná_bez_DPH": 6.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2082,
+    "name": "Výmena žiarovky v kabíne, šachte, strojovni alebo signálnej žiarovky",
+    "price": 6.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2083,
-    "Názov": "Výmena svietidla v šachte alebo strojovni",
-    "Predajná_bez_DPH": 37.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2083,
+    "name": "Výmena svietidla v šachte alebo strojovni",
+    "price": 37.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2084,
-    "Názov": "Montáž nového osvetľovacieho telesa a zapojenie",
-    "Predajná_bez_DPH": 52.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2084,
+    "name": "Montáž nového osvetľovacieho telesa a zapojenie",
+    "price": 52.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2085,
-    "Názov": "Výmena 1 ks závesného kábla, vrátane svoriek",
-    "Predajná_bez_DPH": 80.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2085,
+    "name": "Výmena 1 ks závesného kábla, vrátane svoriek",
+    "price": 80.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2086,
-    "Názov": "Oprava závesného kábla po vytrhnutí zo svokovnice",
-    "Predajná_bez_DPH": 64.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2086,
+    "name": "Oprava závesného kábla po vytrhnutí zo svokovnice",
+    "price": 64.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2087,
-    "Názov": "Oprava a zriadenie kabínových dverí, vymedzenie vôle púzdrami",
-    "Predajná_bez_DPH": 23.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2087,
+    "name": "Oprava a zriadenie kabínových dverí, vymedzenie vôle púzdrami",
+    "price": 23.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2088,
-    "Názov": "Montáž kabínových dvier po odpojení užívateľom",
-    "Predajná_bez_DPH": 16.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2088,
+    "name": "Montáž kabínových dvier po odpojení užívateľom",
+    "price": 16.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2089,
-    "Názov": "Oprava spínača blokovania pod kabínou /praporok/",
-    "Predajná_bez_DPH": 14.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2089,
+    "name": "Oprava spínača blokovania pod kabínou /praporok/",
+    "price": 14.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2090,
-    "Názov": "Výmena krivky poschodových prepínačov",
-    "Predajná_bez_DPH": 12.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2090,
+    "name": "Výmena krivky poschodových prepínačov",
+    "price": 12.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2091,
-    "Názov": "Zriadenie krivky poschodových prepínačov",
-    "Predajná_bez_DPH": 8.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2091,
+    "name": "Zriadenie krivky poschodových prepínačov",
+    "price": 8.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2092,
-    "Názov": "Doplnenie lanovej svorky",
-    "Predajná_bez_DPH": 4.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2092,
+    "name": "Doplnenie lanovej svorky",
+    "price": 4.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2093,
-    "Názov": "Odmastenie a vyčistenie nosného lana alebo reťaze",
-    "Predajná_bez_DPH": 1.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2093,
+    "name": "Odmastenie a vyčistenie nosného lana alebo reťaze",
+    "price": 1.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2094,
-    "Názov": "Vyrovnanie závesu lán kabíny alebo protiváhy, premazanie, vyčistenie",
-    "Predajná_bez_DPH": 52.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2094,
+    "name": "Vyrovnanie závesu lán kabíny alebo protiváhy, premazanie, vyčistenie",
+    "price": 52.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2095,
-    "Názov": "Vyčistenie a zriadenie zachytávačov - záves na kabíne",
-    "Predajná_bez_DPH": 58.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2095,
+    "name": "Vyčistenie a zriadenie zachytávačov - záves na kabíne",
+    "price": 58.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2096,
-    "Názov": "Vyčistenie a zriadenie zachytávačov - spodný záves",
-    "Predajná_bez_DPH": 58.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2096,
+    "name": "Vyčistenie a zriadenie zachytávačov - spodný záves",
+    "price": 58.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2097,
-    "Názov": "Výmena zachytávača a jeho odskúšanie",
-    "Predajná_bez_DPH": 59.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2097,
+    "name": "Výmena zachytávača a jeho odskúšanie",
+    "price": 59.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2098,
-    "Názov": "Vymedzenie vodiacich čeľustí kabíny vymedzovacími gumami",
-    "Predajná_bez_DPH": 24.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2098,
+    "name": "Vymedzenie vodiacich čeľustí kabíny vymedzovacími gumami",
+    "price": 24.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2099,
-    "Názov": "Výmena vodiacich čeľustí kabíny alebo hrušky",
-    "Predajná_bez_DPH": 28.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2099,
+    "name": "Výmena vodiacich čeľustí kabíny alebo hrušky",
+    "price": 28.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2100,
-    "Názov": "Výmena silónového vyloženia vodiacich čeľustí kabíny TOV 250 kg",
-    "Predajná_bez_DPH": 28.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2100,
+    "name": "Výmena silónového vyloženia vodiacich čeľustí kabíny TOV 250 kg",
+    "price": 28.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2101,
-    "Názov": "Výmena silónového vodítka krídla automatických dvier",
-    "Predajná_bez_DPH": 8.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2101,
+    "name": "Výmena silónového vodítka krídla automatických dvier",
+    "price": 8.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2102,
-    "Názov": "Výmena vodiacej čeľuste protiváhy",
-    "Predajná_bez_DPH": 20.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2102,
+    "name": "Výmena vodiacej čeľuste protiváhy",
+    "price": 20.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2103,
-    "Názov": "Výmena silónového vyloženia vodiacej čeľuste protiváhy",
-    "Predajná_bez_DPH": 16.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2103,
+    "name": "Výmena silónového vyloženia vodiacej čeľuste protiváhy",
+    "price": 16.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2104,
-    "Názov": "Vyčistenie a zriadenie spínača podlahy",
-    "Predajná_bez_DPH": 9.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2104,
+    "name": "Vyčistenie a zriadenie spínača podlahy",
+    "price": 9.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2105,
-    "Názov": "Vymedzenie kovových vodítiek, čapov a kĺbov mechanizmu podlahy Ac1 500 kg",
-    "Predajná_bez_DPH": 50.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2105,
+    "name": "Vymedzenie kovových vodítiek, čapov a kĺbov mechanizmu podlahy Ac1 500 kg",
+    "price": 50.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2106,
-    "Názov": "Výmena podlahovej gumy PVC vý ahu TOV 250 kg, 320 kg",
-    "Predajná_bez_DPH": 94.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2106,
+    "name": "Výmena podlahovej gumy PVC vý ahu TOV 250 kg, 320 kg",
+    "price": 94.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2107,
-    "Názov": "Výmena podlahovej gumy PVC vý ahu TOV 500 kg",
-    "Predajná_bez_DPH": 120.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2107,
+    "name": "Výmena podlahovej gumy PVC vý ahu TOV 500 kg",
+    "price": 120.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2108,
-    "Názov": "Výmena spínača pod podlahou, resp. pružiny podlahového mechanizmu",
-    "Predajná_bez_DPH": 34.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2108,
+    "name": "Výmena spínača pod podlahou, resp. pružiny podlahového mechanizmu",
+    "price": 34.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2109,
-    "Názov": "Oprava, vyčistenie, premazanie pohyblivej podlahy a pružín",
-    "Predajná_bez_DPH": 18.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2109,
+    "name": "Oprava, vyčistenie, premazanie pohyblivej podlahy a pružín",
+    "price": 18.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2110,
-    "Názov": "Demontáž alebo montáž lanka OR po vypadnutí z kladky závažia",
-    "Predajná_bez_DPH": 28.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2110,
+    "name": "Demontáž alebo montáž lanka OR po vypadnutí z kladky závažia",
+    "price": 28.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2111,
-    "Názov": "Výmena lanka OR, výťahu do 9 podlaží",
-    "Predajná_bez_DPH": 85.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2111,
+    "name": "Výmena lanka OR, výťahu do 9 podlaží",
+    "price": 85.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2112,
-    "Názov": "Skrátenie lanka OR s prestavením koncových náražiek",
-    "Predajná_bez_DPH": 40.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2112,
+    "name": "Skrátenie lanka OR s prestavením koncových náražiek",
+    "price": 40.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2113,
-    "Názov": "Spevnenie rohu kabíny pri lanku OR (výroba + montáž)",
-    "Predajná_bez_DPH": 48.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2113,
+    "name": "Spevnenie rohu kabíny pri lanku OR (výroba + montáž)",
+    "price": 48.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2114,
-    "Názov": "Spevnenie stien kabíny výťahu",
-    "Predajná_bez_DPH": 20.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2114,
+    "name": "Spevnenie stien kabíny výťahu",
+    "price": 20.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2115,
-    "Názov": "Opásanie protiváhy pásovinou - privarenie",
-    "Predajná_bez_DPH": 80.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2115,
+    "name": "Opásanie protiváhy pásovinou - privarenie",
+    "price": 80.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2116,
-    "Názov": "Montáž krycích líšt na plechové kabínové dvere",
-    "Predajná_bez_DPH": 15.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2116,
+    "name": "Montáž krycích líšt na plechové kabínové dvere",
+    "price": 15.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2117,
-    "Názov": "Oprava spínačov SV1, SV3, SV4 resp. výmena pružinky v spínači SV1",
-    "Predajná_bez_DPH": 18.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2117,
+    "name": "Oprava spínačov SV1, SV3, SV4 resp. výmena pružinky v spínači SV1",
+    "price": 18.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2118,
-    "Názov": "Výmena spínačov SV1, SV3, SV4 ",
-    "Predajná_bez_DPH": 32.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2118,
+    "name": "Výmena spínačov SV1, SV3, SV4 ",
+    "price": 32.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2119,
-    "Názov": "Výmena mostíka",
-    "Predajná_bez_DPH": 22.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2119,
+    "name": "Výmena mostíka",
+    "price": 22.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2120,
-    "Názov": "Vyčistenie mostíka a DU kontaktov spínača po maľovaní",
-    "Predajná_bez_DPH": 14.2,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2120,
+    "name": "Vyčistenie mostíka a DU kontaktov spínača po maľovaní",
+    "price": 14.2,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2121,
-    "Názov": "Výmena silónovej alebo hliníkovej páčky DU1 a KDU4",
-    "Predajná_bez_DPH": 23.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2121,
+    "name": "Výmena silónovej alebo hliníkovej páčky DU1 a KDU4",
+    "price": 23.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2122,
-    "Názov": "Výmena DU1, KDU4 osobného výťahu a nastavenie",
-    "Predajná_bez_DPH": 47.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2122,
+    "name": "Výmena DU1, KDU4 osobného výťahu a nastavenie",
+    "price": 47.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2123,
-    "Názov": "Oprava a zriadenie DU MOC",
-    "Predajná_bez_DPH": 12.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2123,
+    "name": "Oprava a zriadenie DU MOC",
+    "price": 12.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2124,
-    "Názov": "Oprava dverného zámku nákladného výťahu",
-    "Predajná_bez_DPH": 12.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2124,
+    "name": "Oprava dverného zámku nákladného výťahu",
+    "price": 12.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2125,
-    "Názov": "Oprava uzáveru bariérky MNV",
-    "Predajná_bez_DPH": 38.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2125,
+    "name": "Oprava uzáveru bariérky MNV",
+    "price": 38.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2126,
-    "Názov": "Výmena spínača uzáveru NV, MNV",
-    "Predajná_bez_DPH": 20.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2126,
+    "name": "Výmena spínača uzáveru NV, MNV",
+    "price": 20.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2127,
-    "Názov": "Kompletné zriadenie šachtových dvier pántovými podložkami",
-    "Predajná_bez_DPH": 28.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2127,
+    "name": "Kompletné zriadenie šachtových dvier pántovými podložkami",
+    "price": 28.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2128,
-    "Názov": "Kompletné zriadenie šachtových dverí s premazaním pántov",
-    "Predajná_bez_DPH": 18.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2128,
+    "name": "Kompletné zriadenie šachtových dverí s premazaním pántov",
+    "price": 18.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2129,
-    "Názov": "Výmena skla na šachtových dverách a medziposchodí - BAURING",
-    "Predajná_bez_DPH": 48.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2129,
+    "name": "Výmena skla na šachtových dverách a medziposchodí - BAURING",
+    "price": 48.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2130,
-    "Názov": "Výmena skla v rámiku šachtových dvier typu VDJ a JSO",
-    "Predajná_bez_DPH": 18.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2130,
+    "name": "Výmena skla v rámiku šachtových dvier typeu VDJ a JSO",
+    "price": 18.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2131,
-    "Názov": "Výmena skla kabínových dvier s gumou",
-    "Predajná_bez_DPH": 18.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2131,
+    "name": "Výmena skla kabínových dvier s gumou",
+    "price": 18.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2132,
-    "Názov": "Výmena resp. doplnenie madla šachtových dvier s privarením",
-    "Predajná_bez_DPH": 16.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2132,
+    "name": "Výmena resp. doplnenie madla šachtových dvier s privarením",
+    "price": 16.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2133,
-    "Názov": "Výmena skla v informačnom rámiku",
-    "Predajná_bez_DPH": 12.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2133,
+    "name": "Výmena skla v informačnom rámiku",
+    "price": 12.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2134,
-    "Názov": "Zriadenie šachtových dvier nákladného výťahu, premazanie",
-    "Predajná_bez_DPH": 28.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2134,
+    "name": "Zriadenie šachtových dvier nákladného výťahu, premazanie",
+    "price": 28.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2135,
-    "Názov": "Zriadenie padacej lišty šachtových dvier nákladného výťahu",
-    "Predajná_bez_DPH": 16.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2135,
+    "name": "Zriadenie padacej lišty šachtových dvier nákladného výťahu",
+    "price": 16.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2136,
-    "Názov": "Oprava zdvíhacej lišty šachtových dvier nákladného výťahu",
-    "Predajná_bez_DPH": 12.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2136,
+    "name": "Oprava zdvíhacej lišty šachtových dvier nákladného výťahu",
+    "price": 12.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2137,
-    "Názov": "Oprava šachtových dvier MNV",
-    "Predajná_bez_DPH": 8.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2137,
+    "name": "Oprava šachtových dvier MNV",
+    "price": 8.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2138,
-    "Názov": "Výmena lanka bariérky MNV",
-    "Predajná_bez_DPH": 20.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2138,
+    "name": "Výmena lanka bariérky MNV",
+    "price": 20.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2139,
-    "Názov": "Montáž platničky pod samozatvárač Brano s privarením a náterom",
-    "Predajná_bez_DPH": 47.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2139,
+    "name": "Montáž platničky pod samozatvárač Brano s privarením a náterom",
+    "price": 47.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2140,
-    "Názov": "Zriadenie samozatvárača šachtových dvier",
-    "Predajná_bez_DPH": 22.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2140,
+    "name": "Zriadenie samozatvárača šachtových dvier",
+    "price": 22.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2141,
-    "Názov": "Výmena samozatvárača za ten istý typ",
-    "Predajná_bez_DPH": 18.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2141,
+    "name": "Výmena samozatvárača za ten istý type",
+    "price": 18.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2142,
-    "Názov": "Výmena samozatvárača za iný typ, s úpravou dier v platničke",
-    "Predajná_bez_DPH": 46.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2142,
+    "name": "Výmena samozatvárača za iný type, s úpravou dier v platničke",
+    "price": 46.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2143,
-    "Názov": "Výmena samozatvárača ZB2, DJD ",
-    "Predajná_bez_DPH": 20.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2143,
+    "name": "Výmena samozatvárača ZB2, DJD ",
+    "price": 20.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2144,
-    "Názov": "Výmena pružiny do Brana",
-    "Predajná_bez_DPH": 6.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2144,
+    "name": "Výmena pružiny do Brana",
+    "price": 6.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2145,
-    "Názov": "Oprava a zriadenie poschodového prepínača SK-12, SK-101, SK-122",
-    "Predajná_bez_DPH": 12.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2145,
+    "name": "Oprava a zriadenie poschodového prepínača SK-12, SK-101, SK-122",
+    "price": 12.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2146,
-    "Názov": "Vyčistenie a oprava svorkovnice v šachte",
-    "Predajná_bez_DPH": 8.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2146,
+    "name": "Vyčistenie a oprava svorkovnice v šachte",
+    "price": 8.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2147,
-    "Názov": "Oprava a zriadenie zvončeka",
-    "Predajná_bez_DPH": 8.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2147,
+    "name": "Oprava a zriadenie zvončeka",
+    "price": 8.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2148,
-    "Názov": "Výmena zvončeka",
-    "Predajná_bez_DPH": 29.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2148,
+    "name": "Výmena zvončeka",
+    "price": 29.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2149,
-    "Názov": "Zriadenie clonky snímača, nastavenie polohy",
-    "Predajná_bez_DPH": 8.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2149,
+    "name": "Zriadenie clonky snímača, nastavenie polohy",
+    "price": 8.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2150,
-    "Názov": "Oprava a zriadenie spínača závažia OR",
-    "Predajná_bez_DPH": 25.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2150,
+    "name": "Oprava a zriadenie spínača závažia OR",
+    "price": 25.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2151,
-    "Názov": "Výmena celej časti závažia OR",
-    "Predajná_bez_DPH": 32.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2151,
+    "name": "Výmena celej časti závažia OR",
+    "price": 32.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2152,
-    "Názov": "Oprava elektrickej inštalácie OR závažie",
-    "Predajná_bez_DPH": 10.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2152,
+    "name": "Oprava elektrickej inštalácie OR závažie",
+    "price": 10.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2153,
-    "Názov": "Prepúzdrovanie osky obmedzovača rýchlosti v strojovni",
-    "Predajná_bez_DPH": 35.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2153,
+    "name": "Prepúzdrovanie osky obmedzovača rýchlosti v strojovni",
+    "price": 35.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2154,
-    "Názov": "Vyrovnanie a dotiahnutie spojov vodítok kabíny 1 m",
-    "Predajná_bez_DPH": 3.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2154,
+    "name": "Vyrovnanie a dotiahnutie spojov vodítok kabíny 1 m",
+    "price": 3.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2155,
-    "Názov": "Vyrovnanie a dotiahnutie spojov vodítok pritováhy 1 m",
-    "Predajná_bez_DPH": 3.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2155,
+    "name": "Vyrovnanie a dotiahnutie spojov vodítok pritováhy 1 m",
+    "price": 3.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2156,
-    "Názov": "Napnutie drôtov vodítok protiváhy 1 m",
-    "Predajná_bez_DPH": 3.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2156,
+    "name": "Napnutie drôtov vodítok protiváhy 1 m",
+    "price": 3.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2157,
-    "Názov": "Doplnenie nárazníkov pod kabínu",
-    "Predajná_bez_DPH": 7.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2157,
+    "name": "Doplnenie nárazníkov pod kabínu",
+    "price": 7.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2158,
-    "Názov": "Výmena nosných lán osobného výťahu do 9 podlaží",
-    "Predajná_bez_DPH": 95.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2158,
+    "name": "Výmena nosných lán osobného výťahu do 9 podlaží",
+    "price": 95.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2159,
-    "Názov": "Výmena nosných lán výťahu nad 9 podlaží /10,-- € za ďalšie podlažie/",
-    "Predajná_bez_DPH": 0.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2159,
+    "name": "Výmena nosných lán výťahu nad 9 podlaží /10,-- € za ďalšie podlažie/",
+    "price": 0.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2160,
-    "Názov": "Skrátenie nosného lana výťahu s vyrovnaním závesu",
-    "Predajná_bez_DPH": 60.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2160,
+    "name": "Skrátenie nosného lana výťahu s vyrovnaním závesu",
+    "price": 60.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2161,
-    "Názov": "Výmena gufera od spojky alebo zotrvačníka ",
-    "Predajná_bez_DPH": 42.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2161,
+    "name": "Výmena gufera od spojky alebo zotrvačníka ",
+    "price": 42.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2162,
-    "Názov": "Výmena aretácie plechových kabínových dvier s kladkami TOV 500",
-    "Predajná_bez_DPH": 34.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2162,
+    "name": "Výmena aretácie plechových kabínových dvier s kladkami TOV 500",
+    "price": 34.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2163,
-    "Názov": "Montáž snímačov blokovania kabínových dvier s magnetmi",
-    "Predajná_bez_DPH": 30.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2163,
+    "name": "Montáž snímačov blokovania kabínových dvier s magnetmi",
+    "price": 30.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2164,
-    "Názov": "Výroba a montáž podstavca pod samozatvárač Diplomat",
-    "Predajná_bez_DPH": 20.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2164,
+    "name": "Výroba a montáž podstavca pod samozatvárač Diplomat",
+    "price": 20.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2165,
-    "Názov": "Montáž podstavca pod brano vrátane montáže samozatvárača DORMA",
-    "Predajná_bez_DPH": 38.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2165,
+    "name": "Montáž podstavca pod brano vrátane montáže samozatvárača DORMA",
+    "price": 38.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2166,
-    "Názov": "Výmena segmentu k samozatváraèu ZB 2 a nastavenie dovretia",
-    "Predajná_bez_DPH": 38.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2166,
+    "name": "Výmena segmentu k samozatváraèu ZB 2 a nastavenie dovretia",
+    "price": 38.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2167,
-    "Názov": "Privarenie bolca na segment ZB 2 v zárubni šachtových dvier",
-    "Predajná_bez_DPH": 32.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2167,
+    "name": "Privarenie bolca na segment ZB 2 v zárubni šachtových dvier",
+    "price": 32.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2168,
-    "Názov": "Zapojenie alebo odpojenie stanice výťahu s úpravou spojov v riadiacej jednotke",
-    "Predajná_bez_DPH": 27.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2168,
+    "name": "Zapojenie alebo odpojenie stanice výťahu s úpravou spojov v riadiacej jednotke",
+    "price": 27.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2169,
-    "Názov": "Výmena závesnej skrutky na kabíne s očničou",
-    "Predajná_bez_DPH": 20.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2169,
+    "name": "Výmena závesnej skrutky na kabíne s očničou",
+    "price": 20.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2170,
-    "Názov": "Výmena pružiny závesu protiváhy ",
-    "Predajná_bez_DPH": 18.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2170,
+    "name": "Výmena pružiny závesu protiváhy ",
+    "price": 18.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2171,
-    "Názov": "Doprava k servisnej činnosti",
-    "Predajná_bez_DPH": 0.8,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2171,
+    "name": "Doprava k servisnej činnosti",
+    "price": 0.8,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2172,
-    "Názov": "Výmena vypínača v šachte alebo strojovni výťahu",
-    "Predajná_bez_DPH": 18.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2172,
+    "name": "Výmena vypínača v šachte alebo strojovni výťahu",
+    "price": 18.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2173,
-    "Názov": "Výmena pántu na kabínových dverách",
-    "Predajná_bez_DPH": 5.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2173,
+    "name": "Výmena pántu na kabínových dverách",
+    "price": 5.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2174,
-    "Názov": "Brúsenie šachtových dvier a zárubne a vymedzenie pántov podložkami",
-    "Predajná_bez_DPH": 20.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2174,
+    "name": "Brúsenie šachtových dvier a zárubne a vymedzenie pántov podložkami",
+    "price": 20.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2175,
-    "Názov": "Montáž magnetov na blokovanie kabínových dvier",
-    "Predajná_bez_DPH": 7.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2175,
+    "name": "Montáž magnetov na blokovanie kabínových dvier",
+    "price": 7.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2176,
-    "Názov": "Pretesnenie prevodovej skrine",
-    "Predajná_bez_DPH": 50.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2176,
+    "name": "Pretesnenie prevodovej skrine",
+    "price": 50.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2177,
-    "Názov": "Brúsenie a zrezanie dĺžky šachtových dvier",
-    "Predajná_bez_DPH": 25.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2177,
+    "name": "Brúsenie a zrezanie dĺžky šachtových dvier",
+    "price": 25.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2178,
-    "Názov": "Doplnenie oleja v hydraulickej skrini",
-    "Predajná_bez_DPH": 0.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2178,
+    "name": "Doplnenie oleja v hydraulickej skrini",
+    "price": 0.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2179,
-    "Názov": "Výmena lanka OR, výťahu nad 9 podlaží",
-    "Predajná_bez_DPH": 102.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2179,
+    "name": "Výmena lanka OR, výťahu nad 9 podlaží",
+    "price": 102.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2180,
-    "Názov": "Oprava riadiaceho systému výťahu s preletovaním a preskúšanie",
-    "Predajná_bez_DPH": 98.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2180,
+    "name": "Oprava riadiaceho systému výťahu s preletovaním a preskúšanie",
+    "price": 98.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2181,
-    "Názov": "Prepuzdrovanie kladky obmedzovača rýchlosti závažia",
-    "Predajná_bez_DPH": 40.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2181,
+    "name": "Prepuzdrovanie kladky obmedzovača rýchlosti závažia",
+    "price": 40.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2182,
-    "Názov": "Vymedzenie vôle kabíny v ráme",
-    "Predajná_bez_DPH": 36.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2182,
+    "name": "Vymedzenie vôle kabíny v ráme",
+    "price": 36.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2183,
-    "Názov": "Prelisovanie trakčnej kladky s ozubeným vencom",
-    "Predajná_bez_DPH": 107.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2183,
+    "name": "Prelisovanie trakčnej kladky s ozubeným vencom",
+    "price": 107.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2184,
-    "Názov": "Privarenie pántu šachtových dvier alebo platničky na vodítka",
-    "Predajná_bez_DPH": 40.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2184,
+    "name": "Privarenie pántu šachtových dvier alebo platničky na vodítka",
+    "price": 40.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2185,
-    "Názov": "Prelisovanie spojky a zotrvačníka motora na mieste",
-    "Predajná_bez_DPH": 60.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2185,
+    "name": "Prelisovanie spojky a zotrvačníka motora na mieste",
+    "price": 60.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2186,
-    "Názov": "Navarenie pásoviny do prahu šachtových dvier",
-    "Predajná_bez_DPH": 25.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2186,
+    "name": "Navarenie pásoviny do prahu šachtových dvier",
+    "price": 25.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2187,
-    "Názov": "Montáž nového prahového plechu podlahy",
-    "Predajná_bez_DPH": 42.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2187,
+    "name": "Montáž nového prahového plechu podlahy",
+    "price": 42.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2188,
-    "Názov": "Výmena modulu polohová signalizácia",
-    "Predajná_bez_DPH": 15.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2188,
+    "name": "Výmena modulu polohová signalizácia",
+    "price": 15.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2189,
-    "Názov": "Zriadenie kabínových dvier s montážou nového dorazu",
-    "Predajná_bez_DPH": 16.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2189,
+    "name": "Zriadenie kabínových dvier s montážou nového dorazu",
+    "price": 16.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2190,
-    "Názov": "Výmena lanka na poklope vstupu do strojovne",
-    "Predajná_bez_DPH": 28.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2190,
+    "name": "Výmena lanka na poklope vstupu do strojovne",
+    "price": 28.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2191,
-    "Názov": "Výmena pružín v mechanizme podlahy s premazaním čapov",
-    "Predajná_bez_DPH": 40.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2191,
+    "name": "Výmena pružín v mechanizme podlahy s premazaním čapov",
+    "price": 40.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2192,
-    "Názov": "Výmena filcov v samomazniciach",
-    "Predajná_bez_DPH": 10.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2192,
+    "name": "Výmena filcov v samomazniciach",
+    "price": 10.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2193,
-    "Názov": "Výmena výstupného expandra digitálnej polohy",
-    "Predajná_bez_DPH": 8.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2193,
+    "name": "Výmena výstupného expandra digitálnej polohy",
+    "price": 8.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2194,
-    "Názov": "Výmena polohovej signalizácie BEPOL 30 mm, 50 mm",
-    "Predajná_bez_DPH": 15.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2194,
+    "name": "Výmena polohovej signalizácie BEPOL 30 mm, 50 mm",
+    "price": 15.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2195,
-    "Názov": "Výmena akumulátora v záložnom zdroji",
-    "Predajná_bez_DPH": 10.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2195,
+    "name": "Výmena akumulátora v záložnom zdroji",
+    "price": 10.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2196,
-    "Názov": "Výmena vynášacej lopatky podperného ložiska",
-    "Predajná_bez_DPH": 10.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2196,
+    "name": "Výmena vynášacej lopatky podperného ložiska",
+    "price": 10.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2197,
-    "Názov": "Výroba a montáž rámika šachtových dvier",
-    "Predajná_bez_DPH": 20.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2197,
+    "name": "Výroba a montáž rámika šachtových dvier",
+    "price": 20.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2198,
-    "Názov": "Montáž informačného rámika s návodom na obsluhu",
-    "Predajná_bez_DPH": 8.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2198,
+    "name": "Montáž informačného rámika s návodom na obsluhu",
+    "price": 8.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2199,
-    "Názov": "Oprava spojky pohonu dvier BUS Fermator po násilnom zásahu užívateľa",
-    "Predajná_bez_DPH": 30.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2199,
+    "name": "Oprava spojky pohonu dvier BUS Fermator po násilnom zásahu užívateľa",
+    "price": 30.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2200,
-    "Názov": "Výmena pružiny na kopírovacej kladke OR v strojovni",
-    "Predajná_bez_DPH": 32.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2200,
+    "name": "Výmena pružiny na kopírovacej kladke OR v strojovni",
+    "price": 32.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2201,
-    "Názov": "Výmena gumovej kladky na kopírke OR1, OR4",
-    "Predajná_bez_DPH": 30.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2201,
+    "name": "Výmena gumovej kladky na kopírke OR1, OR4",
+    "price": 30.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2202,
-    "Názov": "Vymedzenie medzery medzi šachtovými dverami a podlahou plechom nitovaním",
-    "Predajná_bez_DPH": 20.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2202,
+    "name": "Vymedzenie medzery medzi šachtovými dverami a podlahou plechom nitovaním",
+    "price": 20.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2203,
-    "Názov": "Výroba a montáž hákov na odkladanie rebríka do strojovne",
-    "Predajná_bez_DPH": 42.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2203,
+    "name": "Výroba a montáž hákov na odkladanie rebríka do strojovne",
+    "price": 42.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2204,
-    "Názov": "Výmena torznej pružiny dovieraèa DJD v zárubni",
-    "Predajná_bez_DPH": 32.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2204,
+    "name": "Výmena torznej pružiny dovieraèa DJD v zárubni",
+    "price": 32.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2205,
-    "Názov": "Výmena remeňa pohonu automatických dvier ",
-    "Predajná_bez_DPH": 60.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2205,
+    "name": "Výmena remeňa pohonu automatických dvier ",
+    "price": 60.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2206,
-    "Názov": "Doplnenie zberných nádob na vodítka s vyčistením priehlbne od prevádzkových nečistôt",
-    "Predajná_bez_DPH": 15.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2206,
+    "name": "Doplnenie zberných nádob na vodítka s vyčistením priehlbne od prevádzkových nečistôt",
+    "price": 15.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 2207,
-    "Názov": "Reštartovanie riadiaceho systému výťahu po výpadku elektrickej energie",
-    "Predajná_bez_DPH": 18.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 2207,
+    "name": "Reštartovanie riadiaceho systému výťahu po výpadku elektrickej energie",
+    "price": 18.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3000,
-    "Názov": " Príprava na skúšku a doprava ku odbornej skúške výťahu v zmysle Vyhl. 508/2009 Zb.",
-    "Predajná_bez_DPH": 10.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3000,
+    "name": " Príprava na skúšku a doprava ku odbornej skúške výťahu v zmysle Vyhl. 508/2009 Zb.",
+    "price": 10.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3001,
-    "Názov": "Statická a dynamická odborná skúška vý ahu Ac1 s nosnos ou 250 kg do 9 podlaží a manipulácia s bremenami",
-    "Predajná_bez_DPH": 36.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3001,
+    "name": "Statická a dynamická odborná skúška vý ahu Ac1 s nosnos ou 250 kg do 9 podlaží a manipulácia s bremenami",
+    "price": 36.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3002,
-    "Názov": "Príplatok za ďalšie podlažie AC1 250 kg",
-    "Predajná_bez_DPH": 3.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3002,
+    "name": "Príplatok za ďalšie podlažie AC1 250 kg",
+    "price": 3.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3003,
-    "Názov": "Statická a dynamická skúška výťahu AC1 s nosnos ou 320 kg do 9 podlaží a manipulácia s bremenami",
-    "Predajná_bez_DPH": 48.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3003,
+    "name": "Statická a dynamická skúška výťahu AC1 s nosnos ou 320 kg do 9 podlaží a manipulácia s bremenami",
+    "price": 48.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3004,
-    "Názov": "Príplatok za ďalšie podlažie AC1 320 kg",
-    "Predajná_bez_DPH": 4.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3004,
+    "name": "Príplatok za ďalšie podlažie AC1 320 kg",
+    "price": 4.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3005,
-    "Názov": "Statická a dynamická odborná skúška výťahu Ac1 s nosnos ou 500 kg do 9 podlaží a manipulácia s bremenami",
-    "Predajná_bez_DPH": 60.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3005,
+    "name": "Statická a dynamická odborná skúška výťahu Ac1 s nosnos ou 500 kg do 9 podlaží a manipulácia s bremenami",
+    "price": 60.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3006,
-    "Názov": "Príplatok za ďalšie podlažie AC1 500 kg ",
-    "Predajná_bez_DPH": 5.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3006,
+    "name": "Príplatok za ďalšie podlažie AC1 500 kg ",
+    "price": 5.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3007,
-    "Názov": "Statická a dynamická skúška hydraulického výťahu HOV do 400 kg a skúška bezpečnostného ventilu",
-    "Predajná_bez_DPH": 58.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3007,
+    "name": "Statická a dynamická skúška hydraulického výťahu HOV do 400 kg a skúška bezpečnostného ventilu",
+    "price": 58.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3008,
-    "Názov": "Statická a dynamická skúška nákladného výťahu do 1000 kg a manipulácia s bremenami",
-    "Predajná_bez_DPH": 52.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3008,
+    "name": "Statická a dynamická skúška nákladného výťahu do 1000 kg a manipulácia s bremenami",
+    "price": 52.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3009,
-    "Názov": "6-ročná odborná skúška výťahu Ac3, 100 kg vrátane vypracovania protokolu zo skúšky ",
-    "Predajná_bez_DPH": 60.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3009,
+    "name": "6-ročná odborná skúška výťahu Ac3, 100 kg vrátane vypracovania protokolu zo skúšky ",
+    "price": 60.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3010,
-    "Názov": "Elektr. skúška ochranného systému riadenia inštalácie, izolaèného odporu a impedancie vypínacej slučky pre všetky nosnosti výťahov",
-    "Predajná_bez_DPH": 44.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3010,
+    "name": "Elektr. skúška ochranného systému riadenia inštalácie, izolaèného odporu a impedancie vypínacej slučky pre všetky nosnosti výťahov",
+    "price": 44.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3011,
-    "Názov": "Asistencia pri opakovanej úradnej skúške v zmysle Vyhlášky 508/2009 Zb. v rozsahu trojročnej skúšky hydraulického výťahu bez rozdielu nosnosti",
-    "Predajná_bez_DPH": 148.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3011,
+    "name": "Asistencia pri opakovanej úradnej skúške v zmysle Vyhlášky 508/2009 Zb. v rozsahu trojročnej skúšky hydraulického výťahu bez rozdielu nosnosti",
+    "price": 148.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3012,
-    "Názov": "Asistencia pri opakovanej úradnej skúške v zmysle Vyhlášky 508/2009 Zb. v rozsahu trojročnej skúšky výťahu AC1 s nosnosťou 250 kg",
-    "Predajná_bez_DPH": 98.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3012,
+    "name": "Asistencia pri opakovanej úradnej skúške v zmysle Vyhlášky 508/2009 Zb. v rozsahu trojročnej skúšky výťahu AC1 s nosnosťou 250 kg",
+    "price": 98.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3013,
-    "Názov": "Asistencia pri opakovanej úradnej skúške v zmysle Vyhlášky 508/2009 Zb. v rozsahu trojročnej skúšky výťahu AC1 s nosnosťou 320 kg",
-    "Predajná_bez_DPH": 110.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3013,
+    "name": "Asistencia pri opakovanej úradnej skúške v zmysle Vyhlášky 508/2009 Zb. v rozsahu trojročnej skúšky výťahu AC1 s nosnosťou 320 kg",
+    "price": 110.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3014,
-    "Názov": "Asistencia pri opakovanej úradnej skúške v zmysle Vyhlášky 508/2009 Zb. v rozsahu trojročnej skúšky výťahu AC1 s nosnosťou 500 kg",
-    "Predajná_bez_DPH": 135.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3014,
+    "name": "Asistencia pri opakovanej úradnej skúške v zmysle Vyhlášky 508/2009 Zb. v rozsahu trojročnej skúšky výťahu AC1 s nosnosťou 500 kg",
+    "price": 135.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3015,
-    "Názov": "Vypracovanie protokolu zo skúšky a kontrola technickej dokumentácie výťahu",
-    "Predajná_bez_DPH": 12.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3015,
+    "name": "Vypracovanie protokolu zo skúšky a kontrola technickej dokumentácie výťahu",
+    "price": 12.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3016,
-    "Názov": "Skúška výťahu na trakciu po výmene lanovnice a nosných prostriedkov",
-    "Predajná_bez_DPH": 40.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3016,
+    "name": "Skúška výťahu na trakciu po výmene lanovnice a nosných prostriedkov",
+    "price": 40.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3017,
-    "Názov": "Skúška výťahu po výmene nosných prostriedkov",
-    "Predajná_bez_DPH": 25.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3017,
+    "name": "Skúška výťahu po výmene nosných prostriedkov",
+    "price": 25.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3018,
-    "Názov": "Kontrola odstránenia nedostatkov z opakovanej úradnej skúšky",
-    "Predajná_bez_DPH": 13.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3018,
+    "name": "Kontrola odstránenia nedostatkov z opakovanej úradnej skúšky",
+    "price": 13.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3019,
-    "Názov": "Technické poradenstvo a inžinierska činnosť pri získaní stavebného povolenia",
-    "Predajná_bez_DPH": 600.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3019,
+    "name": "Technické poradenstvo a inžinierska činnosť pri získaní stavebného povolenia",
+    "price": 600.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3020,
-    "Názov": "Vydanie odborného stanoviska k dokumentácii pre stavebné povolenie",
-    "Predajná_bez_DPH": 200.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3020,
+    "name": "Vydanie odborného stanoviska k dokumentácii pre stavebné povolenie",
+    "price": 200.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3021,
-    "Názov": "Vypracovanie dokumentácie technická správa a statický prepočet",
-    "Predajná_bez_DPH": 625.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3021,
+    "name": "Vypracovanie dokumentácie technická správa a statický prepočet",
+    "price": 625.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3022,
-    "Názov": "Dodávka a montáž výťahovej šachty, oceľová konštrukcia",
-    "Predajná_bez_DPH": 9890.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3022,
+    "name": "Dodávka a montáž výťahovej šachty, oceľová konštrukcia",
+    "price": 9890.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3023,
-    "Názov": "Obklad výťahovej šachty RIGIPS HABITO",
-    "Predajná_bez_DPH": 925.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3023,
+    "name": "Obklad výťahovej šachty RIGIPS HABITO",
+    "price": 925.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3024,
-    "Názov": "Dodanie technológie výťahu HOV 400 kg vrátane dopravy",
-    "Predajná_bez_DPH": 19845.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3024,
+    "name": "Dodanie technológie výťahu HOV 400 kg vrátane dopravy",
+    "price": 19845.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3025,
-    "Názov": "Vybudovanie priehlbne výťahu vrátane prekládky potrubia",
-    "Predajná_bez_DPH": 3250.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3025,
+    "name": "Vybudovanie priehlbne výťahu vrátane prekládky potrubia",
+    "price": 3250.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3026,
-    "Názov": "Výkopové a búracie práce pre konštrukciu šachty výťahu s vývozom sutiny",
-    "Predajná_bez_DPH": 720.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3026,
+    "name": "Výkopové a búracie práce pre konštrukciu šachty výťahu s vývozom sutiny",
+    "price": 720.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 3027,
-    "Názov": "Betónovanie podkladovej dosky s vystužením a izoláciou",
-    "Predajná_bez_DPH": 430.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 3027,
+    "name": "Betónovanie podkladovej dosky s vystužením a izoláciou",
+    "price": 430.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4000,
-    "Názov": " Demontáž a montáž výťahového stroja S 3 vrátane motora a podperného ložiska",
-    "Predajná_bez_DPH": 350.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4000,
+    "name": " Demontáž a montáž výťahového stroja S 3 vrátane motora a podperného ložiska",
+    "price": 350.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4001,
-    "Názov": " Zbúranie pôvodných betónových podstavcov stroja",
-    "Predajná_bez_DPH": 280.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4001,
+    "name": " Zbúranie pôvodných betónových podstavcov stroja",
+    "price": 280.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4002,
-    "Názov": "Montáž tlmiaceho roštu s osadením silenblokov, vycentrovanie a zabetonovanie",
-    "Predajná_bez_DPH": 450.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4002,
+    "name": "Montáž tlmiaceho roštu s osadením silenblokov, vycentrovanie a zabetonovanie",
+    "price": 450.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4003,
-    "Názov": "Vylisovanie trakčnej kladky ozubeným vencom",
-    "Predajná_bez_DPH": 120.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4003,
+    "name": "Vylisovanie trakčnej kladky ozubeným vencom",
+    "price": 120.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4004,
-    "Názov": "Úprava strojovne v zmysle STN a odvoz vybúranej sute",
-    "Predajná_bez_DPH": 90.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4004,
+    "name": "Úprava strojovne v zmysle STN a odvoz vybúranej sute",
+    "price": 90.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4005,
-    "Názov": "Montáž rozvádzača BANEL s frekvenčným meničom",
-    "Predajná_bez_DPH": 700.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4005,
+    "name": "Montáž rozvádzača BANEL s frekvenčným meničom",
+    "price": 700.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4006,
-    "Názov": "Úprava elektroinštalácie šachty s rozmiestnením permanentných magnetov",
-    "Predajná_bez_DPH": 120.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4006,
+    "name": "Úprava elektroinštalácie šachty s rozmiestnením permanentných magnetov",
+    "price": 120.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4007,
-    "Názov": "Montáž kábla pre polohovú signalizáciu",
-    "Predajná_bez_DPH": 70.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4007,
+    "name": "Montáž kábla pre polohovú signalizáciu",
+    "price": 70.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4008,
-    "Názov": "Montáž plochého závesného kábla vrátane svoriek",
-    "Predajná_bez_DPH": 90.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4008,
+    "name": "Montáž plochého závesného kábla vrátane svoriek",
+    "price": 90.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4009,
-    "Názov": "Montáž panelu s núdzových osvetlením v kabíne s vyrezaním otvoru",
-    "Predajná_bez_DPH": 120.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4009,
+    "name": "Montáž panelu s núdzových osvetlením v kabíne s vyrezaním otvoru",
+    "price": 120.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4010,
-    "Názov": "Montáž panelu polohová signalizácia v stanici s vyrezaním otvoru",
-    "Predajná_bez_DPH": 60.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4010,
+    "name": "Montáž panelu polohová signalizácia v stanici s vyrezaním otvoru",
+    "price": 60.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4011,
-    "Názov": "Montáž krycieho plechu pod rozvádzač s montážou uholníkov",
-    "Predajná_bez_DPH": 40.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4011,
+    "name": "Montáž krycieho plechu pod rozvádzač s montážou uholníkov",
+    "price": 40.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4012,
-    "Názov": "Montáž ovládaèa revíznej jazdy s tlačítkami vrátane prívodu z krabice",
-    "Predajná_bez_DPH": 105.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4012,
+    "name": "Montáž ovládaèa revíznej jazdy s tlačítkami vrátane prívodu z krabice",
+    "price": 105.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4013,
-    "Názov": "Montáž bistabilných snímaèov v koncových staniciach vrátane držiakov",
-    "Predajná_bez_DPH": 45.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4013,
+    "name": "Montáž bistabilných snímaèov v koncových staniciach vrátane držiakov",
+    "price": 45.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4014,
-    "Názov": "Montáž krivky OM 1 vrátane závitovej tyče, náhrada za krivku OM",
-    "Predajná_bez_DPH": 52.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4014,
+    "name": "Montáž krivky OM 1 vrátane závitovej tyče, náhrada za krivku OM",
+    "price": 52.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4015,
-    "Názov": "Montáž snímačov v šachte vrátane držiakov s rozmiestnením magnetov",
-    "Predajná_bez_DPH": 18.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4015,
+    "name": "Montáž snímačov v šachte vrátane držiakov s rozmiestnením magnetov",
+    "price": 18.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4016,
-    "Názov": "Prečistenie vodítok kabíny a protiváhy s výmenou filcov a oleja v samomazniciach",
-    "Predajná_bez_DPH": 120.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4016,
+    "name": "Prečistenie vodítok kabíny a protiváhy s výmenou filcov a oleja v samomazniciach",
+    "price": 120.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4017,
-    "Názov": "Výmena gumových silenblokov v ráme stroja",
-    "Predajná_bez_DPH": 3.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4017,
+    "name": "Výmena gumových silenblokov v ráme stroja",
+    "price": 3.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4018,
-    "Názov": "Výmena frekvenčného meniča s brzdovým odporom",
-    "Predajná_bez_DPH": 160.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4018,
+    "name": "Výmena frekvenčného meniča s brzdovým odporom",
+    "price": 160.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4019,
-    "Názov": "Zapojenie stykačov na nové frekvenčné riadenie",
-    "Predajná_bez_DPH": 27.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4019,
+    "name": "Zapojenie stykačov na nové frekvenčné riadenie",
+    "price": 27.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4020,
-    "Názov": "Výmena tlmiacich gúm na kovovom ráme stroja",
-    "Predajná_bez_DPH": 20.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4020,
+    "name": "Výmena tlmiacich gúm na kovovom ráme stroja",
+    "price": 20.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4021,
-    "Názov": "Montáž rozvádzača BANEL bez FM vrátane silovej časti",
-    "Predajná_bez_DPH": 600.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4021,
+    "name": "Montáž rozvádzača BANEL bez FM vrátane silovej časti",
+    "price": 600.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4022,
-    "Názov": "Výmena tlačítkovej kombinácie na poschodiach za TSV antivandal",
-    "Predajná_bez_DPH": 15.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4022,
+    "name": "Výmena tlačítkovej kombinácie na poschodiach za TSV antivandal",
+    "price": 15.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4023,
-    "Názov": "Montáž osvetlenia šachty výťahu LED pás vrátane vypínačov",
-    "Predajná_bez_DPH": 120.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4023,
+    "name": "Montáž osvetlenia šachty výťahu LED pás vrátane vypínačov",
+    "price": 120.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4024,
-    "Názov": "montáž krycieho plechu kabínového tabla",
-    "Predajná_bez_DPH": 42.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4024,
+    "name": "montáž krycieho plechu kabínového tabla",
+    "price": 42.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 4999,
-    "Názov": "Náter stien strojovne bielym náterom k zvýšeniu intenzity osvetlenia",
-    "Predajná_bez_DPH": 26.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 4999,
+    "name": "Náter stien strojovne bielym náterom k zvýšeniu intenzity osvetlenia",
+    "price": 26.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 5000,
-    "Názov": "Náter podlahy strojovne protiprašným náterom",
-    "Predajná_bez_DPH": 50.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 5000,
+    "name": "Náter podlahy strojovne protiprašným náterom",
+    "price": 50.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 5001,
-    "Názov": "Doplnenie osvetľovacieho telesa v strojovni k zvýšeniu intenzity osvetlenia strojovne",
-    "Predajná_bez_DPH": 15.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 5001,
+    "name": "Doplnenie osvetľovacieho telesa v strojovni k zvýšeniu intenzity osvetlenia strojovne",
+    "price": 15.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 5002,
-    "Názov": "Výmena zámku v strojovni pre vložku FAB",
-    "Predajná_bez_DPH": 8.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 5002,
+    "name": "Výmena zámku v strojovni pre vložku FAB",
+    "price": 8.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 5003,
-    "Názov": "Odmastenie výťahového stroja od prevádzkových neèistôt so syntetickým náterom stroja",
-    "Predajná_bez_DPH": 15.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 5003,
+    "name": "Odmastenie výťahového stroja od prevádzkových neèistôt so syntetickým náterom stroja",
+    "price": 15.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 5004,
-    "Názov": "Výmena štítku guľa + kľučka na dverách v strojovni výťahu",
-    "Predajná_bez_DPH": 10.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 5004,
+    "name": "Výmena štítku guľa + kľučka na dverách v strojovni výťahu",
+    "price": 10.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 5005,
-    "Názov": "Montáž nerezového parapetného plechu",
-    "Predajná_bez_DPH": 25.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 5005,
+    "name": "Montáž nerezového parapetného plechu",
+    "price": 25.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 5006,
-    "Názov": "Olemovanie otvorov v podlahe strojovne",
-    "Predajná_bez_DPH": 20.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 5006,
+    "name": "Olemovanie otvorov v podlahe strojovne",
+    "price": 20.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 5007,
-    "Názov": "Obnovenie žltého náteru rotujúcich častí výťahového stroja",
-    "Predajná_bez_DPH": 17.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 5007,
+    "name": "Obnovenie žltého náteru rotujúcich častí výťahového stroja",
+    "price": 17.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 5008,
-    "Názov": "Modernizácia interiéru kabíny s nerezovými doplnkami a novým osvetlením",
-    "Predajná_bez_DPH": 1090.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 5008,
+    "name": "Modernizácia interiéru kabíny s nerezovými doplnkami a novým osvetlením",
+    "price": 1090.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 5009,
-    "Názov": "Výmena lemovacej gumy PVC podlahy výťahov Ac1 250 kg, 320 kg",
-    "Predajná_bez_DPH": 18.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 5009,
+    "name": "Výmena lemovacej gumy PVC podlahy výťahov Ac1 250 kg, 320 kg",
+    "price": 18.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 5010,
-    "Názov": "Vyčerpanie vody z priehlbne s chemickým odmastením",
-    "Predajná_bez_DPH": 50.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 5010,
+    "name": "Vyčerpanie vody z priehlbne s chemickým odmastením",
+    "price": 50.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 5011,
-    "Názov": "Demontáž šachtových dvier vrátane zárubne vysekaním",
-    "Predajná_bez_DPH": 60.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 5011,
+    "name": "Demontáž šachtových dvier vrátane zárubne vysekaním",
+    "price": 60.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 5012,
-    "Názov": "Montáž nových šachtových dvier vrátane zárubne",
-    "Predajná_bez_DPH": 90.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 5012,
+    "name": "Montáž nových šachtových dvier vrátane zárubne",
+    "price": 90.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 5013,
-    "Názov": "Vycentrovanie dvier, osadenie do kotiev s vypenovaním otvorov",
-    "Predajná_bez_DPH": 55.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 5013,
+    "name": "Vycentrovanie dvier, osadenie do kotiev s vypenovaním otvorov",
+    "price": 55.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 5014,
-    "Názov": "Vyspravenie dier nahrubo cementovým lepidlom a zastierkovanie najemno",
-    "Predajná_bez_DPH": 120.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 5014,
+    "name": "Vyspravenie dier nahrubo cementovým lepidlom a zastierkovanie najemno",
+    "price": 120.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 5015,
-    "Názov": "Zriadenie nového samozatvárača KDU 4 s krivkou, mostíka SV4 a madla dvier",
-    "Predajná_bez_DPH": 35.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 5015,
+    "name": "Zriadenie nového samozatvárača KDU 4 s krivkou, mostíka SV4 a madla dvier",
+    "price": 35.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 5016,
-    "Názov": "Montáž novej podlahy výťahu Ac1 250 kg, 320 kg",
-    "Predajná_bez_DPH": 100.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 5016,
+    "name": "Montáž novej podlahy výťahu Ac1 250 kg, 320 kg",
+    "price": 100.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 5017,
-    "Názov": "Montáž novej podlahy výťahu Ac1 500 kg",
-    "Predajná_bez_DPH": 120.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 5017,
+    "name": "Montáž novej podlahy výťahu Ac1 500 kg",
+    "price": 120.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 5018,
-    "Názov": "Montáž nerezových schodiskových madiel šachty výťahu vrátane dodávky materiálu",
-    "Predajná_bez_DPH": 52.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 5018,
+    "name": "Montáž nerezových schodiskových madiel šachty výťahu vrátane dodávky materiálu",
+    "price": 52.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 5019,
-    "Názov": "Výroba a montáž rebríka do priehlbne šachty výťahu vrátane držiakov a zámku",
-    "Predajná_bez_DPH": 74.5,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 5019,
+    "name": "Výroba a montáž rebríka do priehlbne šachty výťahu vrátane držiakov a zámku",
+    "price": 74.5,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 6000,
-    "Názov": "Prepúzdrovanie motora VM 10a/6 s výmenou gufier a vyváženie rotora",
-    "Predajná_bez_DPH": 0.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 6000,
+    "name": "Prepúzdrovanie motora VM 10a/6 s výmenou gufier a vyváženie rotora",
+    "price": 0.0,
+    "category": ""
   },
   {
-    "typ": "Služba",
-    "kod": 6001,
-    "Názov": "Montáž svietidiel LED 12 V so stropným podhľadom vrátane dodávky materiálu",
-    "Predajná_bez_DPH": 40.0,
-    "kategoria": ""
+    "type": "Služba",
+    "id": 6001,
+    "name": "Montáž svietidiel LED 12 V so stropným podhľadom vrátane dodávky materiálu",
+    "price": 40.0,
+    "category": ""
   }
 ]

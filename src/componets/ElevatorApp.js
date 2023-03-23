@@ -3,25 +3,23 @@ import Container from "react-bootstrap/Container";
 import Stack from "react-bootstrap/Stack";
 import ElevatorSearcher from "./ElevatorSearcher";
 import SearchResults from "./SearchResults";
-import allData from "../elevatorData.json";
+import database from "../elevatorData.json";
 
 function EvevatorApp() {
-  //searchBar
+  //The searchResults and search state variables are used to manage the search functionality
   const [searchResults, setSearchResults] = useState([]);
   const [search, setSearch] = useState({
     expression: "",
     category: "allCategory",
   });
-
+  //The useEffect hook is used to update the searchResults state variable whenever the search state variable changes.
   useEffect(() => {
-    //este
-    //upraviť ifka
-    //pri velkom prahlliadaci zmeniť rozloženie kategoire a vyhladavania
-
+    //This function is used to normalize the search results based on the search expression entered by the user.
     function normlizedSearch() {
       setSearchResults((oldVal) =>
         oldVal.filter((data) => {
-          const normalizedTitle = data.Názov.toLowerCase()
+          const normalizedTitle = data.name
+            .toLowerCase()
             .normalize("NFD")
             .replace(/[\u0300-\u036f]/g, "");
           const normalizedExpression = search.expression
@@ -32,14 +30,17 @@ function EvevatorApp() {
         })
       );
     }
-
+    //Checks if search.expression is empty or search.category is set to "allCategory". If either of these conditions is true, it sets searchResults to database.
     if (search.expression === "" || search.category === "allCategory") {
-      setSearchResults(allData.map((data) => data));
+      setSearchResults(database.map((data) => data));
     }
+    //If search.category is not "allCategory", it filters allData to only include objects where data.category matches search.category.
     if (search.category !== "allCategory") {
-      setSearchResults(allData.filter((data) => data.kategoria === search.category));
+      setSearchResults(
+        database.filter((data) => data.category === search.category)
+      );
     }
-
+    //If search.expression is not empty, normlize input
     if (search.expression !== "") {
       normlizedSearch();
     }

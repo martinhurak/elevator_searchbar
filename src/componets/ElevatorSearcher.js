@@ -6,9 +6,10 @@ function ElevatorSearcher(props) {
   return (
     <>
       <Form>
-        <Row style={{gap:"10px"}} > 
-          <Col lg={true} sm={4} > 
-            <Form.Control 
+        <Row>
+          <Col sm={6}>
+            <Form.Control
+              className="mb-3"
               type="search"
               placeholder="hladaj..."
               onChange={(event) =>
@@ -18,8 +19,8 @@ function ElevatorSearcher(props) {
                 }))
               }
             />
-          </Col> 
-          <Col  lg={true} sm={4} >
+          </Col>
+          <Col sm={6}>
             <Form.Select
               aria-label="allCategory"
               defaultValue={"allCategory"}

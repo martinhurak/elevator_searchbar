@@ -1,27 +1,33 @@
+import "bootstrap/dist/css/bootstrap.min.css";
+import { useState } from "react";
+import Table from "react-bootstrap/Table";
+function SearchResults(props) {
+  const [selectedRow, setSelectedRow] = useState(null);
 
-import 'bootstrap/dist/css/bootstrap.min.css';
-import Table from 'react-bootstrap/Table';
- function SearchResults(props) {
-  const data = props.data.map((a) => (
-    <tr key={a.kod}>{
-      //onClick={()=>console.log(a.Názov) a zmenim classu}
-    }
-      <td>{a.typ}</td>
-      <td>{a.kod}</td>
-      <td>{a.Názov}</td>
-      <td className="text-center">{a.Predajná_bez_DPH}</td>
-      <td>{a.kategoria}</td>
+  const data = props.data.map((database) => (
+    <tr
+      key={database.id}
+      className={selectedRow === database.id ? "bg-primary text-white" : ""}
+      onClick={() =>
+        setSelectedRow((oldVal) => (oldVal === database.id ? null : database.id))
+      }
+    >
+      <td>{database.type}</td>
+      <td>{database.id}</td>
+      <td>{database.name}</td>
+      <td className="text-center">{database.price}</td>
+      <td>{database.category}</td>
     </tr>
   ));
 
   return (
-    <Table striped bordered hover >
-      <thead >
+    <Table striped bordered hover>
+      <thead>
         <tr>
           <th>Typ</th>
           <th>kod</th>
           <th>Názov</th>
-          <th >Predajná bez DPH</th>
+          <th>Predajná bez DPH</th>
           <th>Kategória</th>
         </tr>
       </thead>
@@ -29,4 +35,4 @@ import Table from 'react-bootstrap/Table';
     </Table>
   );
 }
-export default SearchResults
+export default SearchResults;
