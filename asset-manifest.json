@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/elevator_searchbar/static/css/main.8d1d455e.css",
-    "main.js": "/elevator_searchbar/static/js/main.4951237f.js",
+    "main.js": "/elevator_searchbar/static/js/main.f607842f.js",
     "index.html": "/elevator_searchbar/index.html",
     "main.8d1d455e.css.map": "/elevator_searchbar/static/css/main.8d1d455e.css.map",
-    "main.4951237f.js.map": "/elevator_searchbar/static/js/main.4951237f.js.map"
+    "main.f607842f.js.map": "/elevator_searchbar/static/js/main.f607842f.js.map"
   },
   "entrypoints": [
     "static/css/main.8d1d455e.css",
-    "static/js/main.4951237f.js"
+    "static/js/main.f607842f.js"
   ]
 }
