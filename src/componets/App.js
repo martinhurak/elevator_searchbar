@@ -11,7 +11,7 @@ function App() {
       <BrowserRouter>
       <Menu/>
       <Routes>
-        <Route path="" element={<SearchApp />} />
+        <Route path="/elevator_searchbar" element={<SearchApp />} />
         <Route path="serviceNote" element={<ServiceNote />}/>
         </Routes>
       </BrowserRouter>

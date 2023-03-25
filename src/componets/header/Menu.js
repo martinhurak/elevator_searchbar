@@ -16,7 +16,7 @@ function Menu() {
     {
         <Navbar key={"md"} bg="dark" variant="dark" expand={"md"} className="mb-3">
           <Container fluid>
-            <Navbar.Brand as={Link} to="/" href="#">
+            <Navbar.Brand as={Link} to="/elevator_searchbar" href="#">
                Výtahy
             </Navbar.Brand>
             <Navbar.Toggle onClick={()=>setOffCanvasMenu(true)}  aria-controls={`offcanvasNavbar-expand-${"md"}`} />
@@ -34,7 +34,7 @@ function Menu() {
               </Offcanvas.Header>
               <Offcanvas.Body>
                 <Nav className="justify-content-end flex-grow-1 pe-3">
-                  <Nav.Link onClick={()=> setOffCanvasMenu(false)} as={Link} to="/" > Vyhladavnie</Nav.Link>
+                  <Nav.Link onClick={()=> setOffCanvasMenu(false)} as={Link} to="/elevator_searchbar" > Vyhladavnie</Nav.Link>
                   <Nav.Link onClick={()=> setOffCanvasMenu(false)} as={Link} to="serviceNote"> Služba </Nav.Link>          
                 </Nav>
                 <Outlet/>

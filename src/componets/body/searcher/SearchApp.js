@@ -51,7 +51,7 @@ function SearchApp() {
     <>
       <Container>
         <Stack gap={3}>
-          <h2 className=" mx-auto">Vyhľadávač</h2>
+          <h2 className="mx-auto">Vyhľadávač</h2>
           <ElevatorSearcher setSearch={setSearch} />
           <SearchResults data={searchResults} />
         </Stack>
