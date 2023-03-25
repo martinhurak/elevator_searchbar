@@ -1,7 +1,5 @@
 import { Col, Row } from "react-bootstrap";
 import Form from "react-bootstrap/Form";
-import "../App.css";
-
 function ElevatorSearcher(props) {
   return (
     <>

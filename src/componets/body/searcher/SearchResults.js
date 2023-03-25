@@ -3,13 +3,17 @@ import { useState } from "react";
 import Table from "react-bootstrap/Table";
 function SearchResults(props) {
   const [selectedRow, setSelectedRow] = useState(null);
+  const nuberOfResults = props.data.length
 
-  const data = props.data.map((database) => (
+  const tableData = props.data.map((database) => (
     <tr
       key={database.id}
       className={selectedRow === database.id ? "bg-primary text-white" : ""}
+      //setSelectedRow updates the selected row state when a row is clicked.
       onClick={() =>
-        setSelectedRow((oldVal) => (oldVal === database.id ? null : database.id))
+        setSelectedRow((oldVal) =>
+          oldVal === database.id ? null : database.id
+        )
       }
     >
       <td>{database.type}</td>
@@ -20,7 +24,7 @@ function SearchResults(props) {
     </tr>
   ));
 
-  return (
+  const table = (
     <Table striped bordered hover>
       <thead>
         <tr>
@@ -31,8 +35,9 @@ function SearchResults(props) {
           <th>Kategória</th>
         </tr>
       </thead>
-      <tbody>{data}</tbody>
+      <tbody>{tableData}</tbody>
     </Table>
   );
+  return <>{nuberOfResults !== 0 ? table : <h2 className="text-center">Nenašli sa vysledky</h2>}</>;
 }
 export default SearchResults;

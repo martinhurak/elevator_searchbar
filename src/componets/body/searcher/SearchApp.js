@@ -3,9 +3,10 @@ import Container from "react-bootstrap/Container";
 import Stack from "react-bootstrap/Stack";
 import ElevatorSearcher from "./ElevatorSearcher";
 import SearchResults from "./SearchResults";
-import database from "../elevatorData.json";
+import database from "../../../elevatorData.json";
 
-function EvevatorApp() {
+
+function SearchApp() {
   //The searchResults and search state variables are used to manage the search functionality
   const [searchResults, setSearchResults] = useState([]);
   const [search, setSearch] = useState({
@@ -58,4 +59,4 @@ function EvevatorApp() {
     </>
   );
 }
-export default EvevatorApp;
+export default SearchApp;
